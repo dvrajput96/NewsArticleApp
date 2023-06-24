@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_article">News Article</string>
+    <string name="offline_image">Offline Image</string>
+    <string name="no_internet_connection">No internet connectivity!</string>
+    <string name="please_try_again">Please Retry</string>
+</resources>
